@@ -1,5 +1,8 @@
 # Vision
 
+> ⚠️ **Ce document décrit le produit *ambiant* (cafés, coworking, transports), qui n'est plus la direction du projet depuis le 15 septembre 2026.**
+> Voir `docs/decisions/0003-mode-evenement-et-detection-de-proximite.md`. Ce document n'a pas encore été réécrit : le lire en sachant qu'il est en partie périmé.
+
 > Sources d'origine : `chord_project_files_Concept.md`, `chord_project_files_Experiment_Board.md`, juillet 2026.
 > **Statut : hypothèse.** Rien dans ce document n'est encore validé par des données d'entretien. Voir `research/interviews/synthesis.md`.
 
@@ -52,3 +55,22 @@ Trois choses, par ordre de difficulté :
 3. **Que la densité minimale est atteignable.** Une application de proximité sans utilisateurs à proximité ne rend aucun service. C'est le problème de démarrage le plus dur du projet.
 
 Voir `brainstorm/open-questions.md` pour l'état de ces questions.
+
+## Le recadrage de septembre 2026
+
+Le produit décrit plus haut est **ambiant** : il révèle le réseau latent dans les lieux du quotidien, et la rencontre est immédiate. La décision `0003` lui substitue un produit de **mode événement** : la détection est passive pendant un événement professionnel, et le tri se fait le lendemain, de manière asynchrone.
+
+Ce qui survit de cette vision :
+
+- L'hypothèse centrale — il existe un réseau professionnel latent autour de chacun, et le rendre visible crée de la valeur.
+- Le déclencheur par la proximité physique réelle, qui reste ce qui sépare Chord de tous les acteurs existants.
+- Le refus du réseau déclaré et planifié.
+
+Ce qui tombe :
+
+- Le café, le train, la file d'attente comme terrain de jeu.
+- La rencontre « en minutes » et le dernier mètre — voir `brainstorm/objections.md`, O2.
+
+Ce qui change de nature : la valeur ne se formule plus comme la révélation d'un réseau latent en continu, mais comme **la rencontre qu'on n'a pas eu le temps de faire** pendant un événement. Voir `docs/positioning.md`.
+
+TODO: réécrire ce document entièrement pour le mode événement, plutôt que de lui ajouter une section corrective. Une vision qui a besoin d'un erratum n'est pas une vision.

@@ -20,7 +20,7 @@ TODO: à définir. Options non instruites :
 
 - **L'utilisateur final.** Le plus honnête, le plus difficile : le networking est historiquement gratuit côté utilisateur.
 - **Les lieux** (espaces de coworking, cafés, incubateurs) qui voudraient rendre leur lieu plus vivant. Piste intéressante car elle résout aussi le problème de densité.
-- **Les organisateurs d'événements**, pour qui la mise en relation entre participants est un service attendu.
+- **Les organisateurs d'événements**, pour qui la mise en relation entre participants est un service attendu. **Devenue la piste principale** depuis la décision `0003` du 15 septembre 2026 : le produit se déroule désormais dans leur événement. TODO: instruire — combien paient déjà pour Swapcard, Brella ou équivalent, et combien ?
 - **Un modèle publicitaire ou de données.** À écarter explicitement si on veut être crédible sur la vie privée — voir `brainstorm/objections.md`.
 
 ## Pour quoi

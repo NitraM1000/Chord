@@ -1,5 +1,9 @@
 # Roadmap
 
+> ⚠️ **Périmée depuis la décision `0003` du 15 septembre 2026.** Cette roadmap est organisée autour de H5 (« les gens osent-ils aborder un inconnu ? ») et H6 (« la densité est-elle atteignable ? »). En mode événement, H5 est sans objet et H6 est structurellement résolue — c'est-à-dire que les deux phases centrales de ce plan n'ont plus de contenu.
+>
+> TODO: réécrire entièrement. Les phases de validation du mode événement sont à construire autour de Q9 (densité de contenu), Q10 (l'occasion ratée est-elle ressentie ?) et du spike technique.
+
 > **Statut : le projet n'est pas en phase de construction.** Aucun développement ne devrait démarrer avant que les hypothèses H5 et H6 de `product/experiment-board.md` aient été testées.
 
 Cette roadmap est donc une roadmap de **validation**, pas de développement.
